@@ -1,6 +1,6 @@
 # **Customer-Churn-Prediction**
   The goal is to identify customers at risk of leaving and to build robust predictive models using algorithms such as logistic regression, random forests, and gradient boosting.
-<img src="1.png" align="right" width="200" alt="Description of image">
+<img src="1.webp" align="right" width="200" alt="Description of image">
 # **Project Objective**
   1. Predict customers likely to churn based on their usage patterns, demographic, data and service interactions.
   2. Identify key factors contributing to churn.
