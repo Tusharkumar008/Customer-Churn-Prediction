@@ -11,5 +11,6 @@
   company for various reasons, such as dissatisfaction with the service, better offers from competitors, or simply no longer needing the product.
 
 # ** Raw Data File **
-Click [LINK HERE]([https://github.com/your-username/your-repo-name/blob/main/dataset.csv](https://github.com/Tusharkumar008/Customer-Churn-Prediction/blob/main/Raw%20Data%20Customer-Churn.csv )) to view the dataset.
+[LINK HERE]([https://github.com/yourusername/yourrepositoryname/raw/main/path/to/your/file.csv](https://github.com/Tusharkumar008/Customer-Churn-Prediction/blob/main/Raw%20Data%20Customer-Churn.csv ))
+
 
