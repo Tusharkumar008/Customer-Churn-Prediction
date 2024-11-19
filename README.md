@@ -15,7 +15,7 @@
 
 # Modified Data 
 
-[LINK HERE](https://github.com/Tusharkumar008/Customer-Churn-Prediction/blob/main/Cleaned%20Data.xlsx)
+[LINK HERE](https://github.com/Tusharkumar008/Customer-Churn-Prediction/blob/main/Cleaned%20Data.csv)
 # ** Raw Data Overview **
 The data provided in this repository is in its raw form, meaning it has not yet undergone any cleaning, preprocessing, or transformation steps. This raw data typically comes from various sources and may contain:
 
